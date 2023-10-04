@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+}
+
+.App input {
+    padding-top: 5px;
+    margin: 20px;
+    text-align: center;
+}
+
+.heading {
+    font-family: 'Bigelow Rules', cursive;
+    font-size: 72px;
+    color: turquoise;
+}
